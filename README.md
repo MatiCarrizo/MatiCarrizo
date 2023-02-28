@@ -2,7 +2,7 @@
 ## My name is Matías Carrizo and i'm an electronic engineer and Full-stack developer
 
 📌 I am a proactive person, constantly expanding my knowledge and improving my skills.\
-If you want us to work together, do not hesitate to contact me.
+🛠️ If you want us to work together, do not hesitate to contact me.
 
 ### Languages:
 ![image](https://user-images.githubusercontent.com/110782433/221870819-690d3b36-f556-44b3-87b2-6d91ade443b4.png) 
