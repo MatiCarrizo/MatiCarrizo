@@ -1,5 +1,5 @@
 # WELCOME TO MY GITHUB PROFILE
-## My name is Matías Carrizo and i'm an electronic engineer and Full-stack developer
+## My name is Matías Carrizo and i'm an Electronic Engineer and Full-Stack Developer
 
 📌 I am a proactive person, constantly expanding my knowledge and improving my skills.\
 🛠️ If you want us to work together, do not hesitate to contact me.
