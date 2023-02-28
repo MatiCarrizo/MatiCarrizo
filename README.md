@@ -1,1 +1,2 @@
-Aca va un about me
+#Sobre mi
+Soy una persona activa, con interés constante en capacitarme y mejorar profesionalmente. Cuento con experiencia como líder de proyecto guiando equipos de trabajo en desarrollo e implementación de automatismo. Como Ingeniero Electrónico me apasiona la electrónica, como también la programación, por lo cual decidí cambiar mi rumbo hacia este último. Tuve la oportunidad de participar en la creación de un E-commerce para una marca de remeras, el cual cuenta con un diseño minimalista y con una sencilla experiencia de usuario.
