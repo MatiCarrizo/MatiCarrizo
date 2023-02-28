@@ -1,2 +1,17 @@
-#Sobre mi
-Soy una persona activa, con interés constante en capacitarme y mejorar profesionalmente. Cuento con experiencia como líder de proyecto guiando equipos de trabajo en desarrollo e implementación de automatismo. Como Ingeniero Electrónico me apasiona la electrónica, como también la programación, por lo cual decidí cambiar mi rumbo hacia este último. Tuve la oportunidad de participar en la creación de un E-commerce para una marca de remeras, el cual cuenta con un diseño minimalista y con una sencilla experiencia de usuario.
+# WELCOME TO MY GITHUB PROFILE
+## My name is Matías Carrizo and i'm an electronic engineer and Full-stack developer
+
+I am a proactive person, constantly expanding my knowledge and improving my skills.\
+If you want us to work together, do not hesitate to contact me.
+
+### Languages:
+javascript typescript
+
+### Frontend:
+html5 css3 react react-router redux 
+
+### Backend:
+nodejs express postgresql sequelize postman nodemon
+
+### Management Tools:
+git npm github
